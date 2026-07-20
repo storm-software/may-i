@@ -1,6 +1,6 @@
 { ... }:
 {
-  name = "storm-software/powerlines-monorepo-template";
+  name = "storm-software/may-i";
 
   dotenv.enable = true;
   dotenv.filename = [

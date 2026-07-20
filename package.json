@@ -1,11 +1,11 @@
 {
-  "name": "@powerlines-monorepo-template/monorepo",
+  "name": "@may-i/monorepo",
   "version": "0.0.1",
   "type": "module",
-  "description": "⚡ A monorepo containing TypeScript utility packages with shared functionality common to many Storm Software applications.",
+  "description": "🦾 May I use AI? If your runtime doesn't have the required data to make requests to your AI model, handle it gracefully.",
   "repository": {
     "type": "github",
-    "url": "https://github.com/storm-software/powerlines-monorepo-template.git"
+    "url": "https://github.com/storm-software/may-i.git"
   },
   "homepage": "https://stormsoftware.com",
   "bugs": {
@@ -29,9 +29,12 @@
     "pnpm": ">=11.1.2"
   },
   "keywords": [
+    "ai-tools",
+    "ai-sdk",
+    "ai-agent",
+    "llm",
+    "llm-tools",
     "storm-software",
-    "template",
-    "github-template",
     "monorepo"
   ],
   "scripts": {
@@ -97,18 +100,11 @@
     "vitest": "catalog:",
     "zx": "catalog:"
   },
-  "devEngines": {
-    "runtime": {
-      "name": "node",
-      "version": "^26.3.0",
-      "onFail": "download"
-    }
-  },
   "manypkg": {
     "defaultBranch": "main",
     "workspaceProtocol": "require"
   },
-  "namespace": "@powerlines-monorepo-template",
+  "namespace": "@may-i",
   "nx": {
     "includedScripts": [
       "lint-knip",
