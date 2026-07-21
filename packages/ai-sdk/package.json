@@ -1,16 +1,9 @@
 {
   "name": "@may-i/ai-sdk",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "private": false,
   "description": "May I - AI SDK integration. Credential-gated helpers for the Vercel AI SDK (`ai` package).",
-  "keywords": [
-    "may-i",
-    "ai",
-    "ai-sdk",
-    "vercel-ai",
-    "llm",
-    "storm-software"
-  ],
+  "keywords": ["may-i", "ai", "ai-sdk", "vercel-ai", "llm", "storm-software"],
   "license": "Apache-2.0",
   "repository": {
     "type": "git",
@@ -58,9 +51,7 @@
   "module": "./dist/index.mjs",
   "types": "./dist/index.d.cts",
   "typings": "dist/index.d.mts",
-  "files": [
-    "dist"
-  ],
+  "files": ["dist"],
   "dependencies": {
     "@ai-sdk/provider-utils": "^5.0.11",
     "@may-i/core": "workspace:*",

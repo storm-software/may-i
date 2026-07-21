@@ -2,6 +2,12 @@
 
 # Changelog for May I - Core
 
+## [0.0.3](https://github.com/storm-software/may-i/releases/tag/core%400.0.3) (07/21/2026)
+
+### Miscellaneous
+
+- **monorepo:** Lint workspace packages' source code ([8db034e](https://github.com/storm-software/may-i/commit/8db034e))
+
 ## [0.0.2](https://github.com/storm-software/may-i/releases/tag/core%400.0.2) (07/21/2026)
 
 ### Features
