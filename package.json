@@ -2,7 +2,7 @@
   "name": "@may-i/monorepo",
   "version": "0.0.1",
   "type": "module",
-  "description": "🦾 May I use AI? If your runtime doesn't have the required data to make requests to your AI model, handle it gracefully.",
+  "description": "🚧 May I use AI? If your runtime doesn't have the required data to make requests to your AI model, handle it gracefully.",
   "repository": {
     "type": "github",
     "url": "https://github.com/storm-software/may-i.git"

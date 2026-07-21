@@ -1,0 +1,13 @@
+# Provider Names
+assemblyai
+cartesia
+gladia
+groq
+kling
+klingai
+lmnt
+luma
+prodia
+quiverai
+revai
+langchain

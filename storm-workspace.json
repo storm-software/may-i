@@ -6,5 +6,11 @@
   "repository": "https://github.com/storm-software/may-i",
   "packageManager": "pnpm",
   "logLevel": "trace",
-  "docs": "https://docs.stormsoftware.com/projects/may-i"
+  "docs": "https://docs.stormsoftware.com/projects/may-i",
+  "release": {
+    "banner": {
+      "url": "https://public.storm-cdn.com/may-i/media/banner-1280x320-dark.gif",
+      "alt": "May I?'s logo banner"
+    }
+  }
 }

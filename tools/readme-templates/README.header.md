@@ -1,8 +1,8 @@
 <div align="center">
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://public.storm-cdn.com/storm-software/media/banner-1280x640-dark.gif">
-  <source media="(prefers-color-scheme: light)" srcset="https://public.storm-cdn.com/storm-software/media/banner-1280x640-light.gif">
-<img src="https://public.storm-cdn.com/storm-software/media/banner-1280x640-dark.gif" width="100%" alt="Storm Software" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://public.storm-cdn.com/may-i/media/banner-1280x640-dark.gif">
+  <source media="(prefers-color-scheme: light)" srcset="https://public.storm-cdn.com/may-i/media/banner-1280x640-light.gif">
+<img src="https://public.storm-cdn.com/may-i/media/banner-1280x640-dark.gif" width="100%" alt="Storm Software" />
 </picture>
 </div>
 <br />
@@ -16,8 +16,8 @@
 </b>
 </div>
 
-<br />
-This package is part of the ⚡<b>May I</b> monorepo. The May I packages include CLI utility applications, tools, and various libraries used to create modern, scalable web applications.
+**🚧​ May I use AI?** If your runtime doesn't have the required data to make requests to your AI model, handle it gracefully.
+
 <br />
 
 <h3 align="center">💻 Visit <a href="https://stormsoftware.com" target="_blank">stormsoftware.com</a> to stay up to date with this developer</h3><br />

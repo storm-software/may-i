@@ -1,0 +1,28 @@
+/* -------------------------------------------------------------------
+
+                        🗲 Storm Software - May I
+
+ This code was released as part of the May I project. May I
+ is maintained by Storm Software under the Apache-2.0 license, and is
+ free for commercial and private use. For more information, please visit
+ our licensing page at https://stormsoftware.com/licenses/projects/may-i.
+
+ Website:                  https://stormsoftware.com
+ Repository:               https://github.com/storm-software/may-i
+ Documentation:            https://docs.stormsoftware.com/projects/may-i
+ Contact:                  https://stormsoftware.com/contact
+
+ SPDX-License-Identifier:  Apache-2.0
+
+ ------------------------------------------------------------------- */
+
+export {
+  PROVIDER_ENV,
+  checkCredentials,
+  hasCredentials,
+  providerCredentials
+} from "./credentials";
+export type { ProviderName } from "./credentials";
+export { MayIError, isMayIError } from "./error";
+export { ask, gate } from "./gate";
+export type * from "./types";
