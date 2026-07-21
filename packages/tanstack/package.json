@@ -1,15 +1,9 @@
 {
   "name": "@may-i/tanstack",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "private": false,
   "description": "May I - Tanstack AI integration. Credential-gated helpers for the Tanstack AI (`@tanstack/ai` package).",
-  "keywords": [
-    "may-i",
-    "tanstack-ai",
-    "tanstack",
-    "llm",
-    "storm-software"
-  ],
+  "keywords": ["may-i", "tanstack-ai", "tanstack", "llm", "storm-software"],
   "license": "Apache-2.0",
   "repository": {
     "type": "git",
@@ -57,9 +51,7 @@
   "module": "./dist/index.mjs",
   "types": "./dist/index.d.cts",
   "typings": "dist/index.d.mts",
-  "files": [
-    "dist"
-  ],
+  "files": ["dist"],
   "dependencies": {
     "@may-i/core": "workspace:*",
     "@stryke/type-checks": "catalog:",
