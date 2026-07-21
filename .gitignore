@@ -10,6 +10,8 @@ tmp
 out
 .nx
 
+.pnpm-store
+
 powerlines.d.ts
 .powerlines
 
