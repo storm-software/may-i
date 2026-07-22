@@ -1,6 +1,6 @@
 {
   "name": "@may-i/tanstack",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "private": false,
   "description": "May I - Tanstack AI integration. Credential-gated helpers for the Tanstack AI (`@tanstack/ai` package).",
   "keywords": ["may-i", "tanstack-ai", "tanstack", "llm", "storm-software"],

@@ -1,6 +1,6 @@
 {
   "name": "@may-i/core",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "private": false,
   "description": "🚧 May I use AI? If your runtime doesn't have the required data to make requests to your AI model, handle it gracefully.",
   "keywords": [

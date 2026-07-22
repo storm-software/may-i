@@ -1,6 +1,6 @@
 {
   "name": "@may-i/langchain",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "private": false,
   "description": "May I - LangChain integration. Credential-gated helpers for LangChain (`@langchain/core` / `langchain`).",
   "keywords": [

@@ -2,6 +2,12 @@
 
 # Changelog for May I - Langchain
 
+## [0.0.4](https://github.com/storm-software/may-i/releases/tag/langchain%400.0.4) (07/21/2026)
+
+### Updated Dependencies
+
+- Updated **core** to **v0.0.4**
+
 ## [0.0.3](https://github.com/storm-software/may-i/releases/tag/langchain%400.0.3) (07/21/2026)
 
 ### Miscellaneous

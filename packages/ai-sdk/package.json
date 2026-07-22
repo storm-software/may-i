@@ -1,6 +1,6 @@
 {
   "name": "@may-i/ai-sdk",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "private": false,
   "description": "May I - AI SDK integration. Credential-gated helpers for the Vercel AI SDK (`ai` package).",
   "keywords": ["may-i", "ai", "ai-sdk", "vercel-ai", "llm", "storm-software"],
